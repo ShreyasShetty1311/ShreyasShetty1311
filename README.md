@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasshetty1311&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasshetty1311" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyasshetty1311" alt="shreyasshetty1311" /></a> </p>
 
 - 🌱 I’m currently learning **• Advanced Machine Learning • System Design • DevOps & Cloud Scaling • AI Agent Automation**
 
